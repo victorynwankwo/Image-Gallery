@@ -30,22 +30,22 @@ body{
     transform: scale(1.05) rotate(3deg);
     border-radius: 10px;
 }
-.modal-image{
-    width:  100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(0,0,0,0.8);
-    transition: opacity 0.3s ease;
-    display: none;
-}
-.modal-image img{
-    width: 50%;
-    border-radius: 10px;
-   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
-   
-}
+/* .modal-image{ */
+    /* width:  100%; */
+    /* position: fixed; */
+    /* top: 0; */
+    /* left: 0; */
+    /* height: 100%; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* background-color: rgba(0,0,0,0.8); */
+    /* transition: opacity 0.3s ease; */
+    /* display: none; */
+/* } */
+/* .modal-image img{ */
+    /* width: 50%; */
+    /* border-radius: 10px; */
+   /* box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px; */
+/*     */
+/* } */
